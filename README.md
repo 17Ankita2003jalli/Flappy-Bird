@@ -1,15 +1,10 @@
 
-# **Flappy Bird**
+# **Flappy Bird Recreate**
 
 Welcome to the Flappy Bird project.This is developed entirely in core Java.
 This project is a creation of classic Flappy Bird game using fundamental Java concepts and libraries.
 
-
-
-
-
-
-## Table of Content
+## Table of Content(s)
 - Project overview
 - Features
 - Installation
